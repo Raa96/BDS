@@ -7,3 +7,5 @@
    https://www.kaggle.com/raakesh96/surface-temperature-analysis-19023
    global temperatures eda +viz 19023.ipynb
    https://www.kaggle.com/raakesh96/surface-temperature-analysis-19023
+   global temperatures forecast.ipynb
+   https://www.kaggle.com/raakesh96/global-temperature-forecasting-19023
