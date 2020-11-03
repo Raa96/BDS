@@ -9,3 +9,5 @@
    https://www.kaggle.com/raakesh96/surface-temperature-analysis-19023
    global temperatures forecast.ipynb
    https://www.kaggle.com/raakesh96/global-temperature-forecasting-19023
+   trustmodel
+   https://www.kaggle.com/raakesh96/trust-models-lime-xgboost
